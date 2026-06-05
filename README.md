@@ -1,80 +1,177 @@
-### 脚本功能列表
-<!-- README_TABLE_START -->
-| 脚本名称 | 最后一次更新时间 | 当前状态 |
-| :--- | :----: | :----: |
-| 铛铛一下签到+抽奖+提现 | 2026-06-05 | ✅ |
-| 嘉立创金豆商城签到 | 2026-06-05 | ✅ |
-| 倍轻松签到+发帖+评论+浏览商城 | 2026-06-05 | ✅ |
-| 七彩虹签到 | 2026-06-05 | ✅ |
-| 茶白道签到 | 2026-06-05 | ✅ |
-| 三福签到 | 2026-06-05 | ✅ |
-| DT生活签到 | 2026-06-05 | ✅ |
-| 优智云家签到 | 2026-06-05 | ✅ |
-| 奈雪点单签到 | 2026-06-05 | ✅ |
-| 飞蚂蚁旧衣回收签到+步数兑换 | 2026-06-05 | ✅ |
-| 君品荟签到+花园 | 2026-06-05 | ⚠️ |
-| 海天美味馆签到 | 2026-06-05 | ✅ |
-| 国乐酱酒签到 | 2026-06-05 | ✅ |
-| iQOO社区签到 | 2026-06-05 | ✅ |
-| 爱玛签到 | 2026-06-05 | ✅ |
-| 小紫有约签到 | 2026-06-05 | ✅ |
-| 泰康在线保险签到+答题+浏览 | 2026-06-05 | ✅ |
-| 恩山论坛签到 | 2026-06-05 | ✅ |
-| 智谱AI签到 | 2026-06-05 | ✅ |
-<!-- README_TABLE_END -->
+<div align="center">
 
-## 微信小程序脚本
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=YR4399&fontSize=80&fontColor=gradient&fontAlignY=35&desc=⚔%20CODE%20×%20MECHA%20⚔&descSize=18&descAlignY=55&descAlignX=50&animation=fadeIn" width="100%"/>
 
-需要配置 `wx_server_url` / `wx_auth` 通过 WCS 获取微信小程序 `code`。首次使用一般需要先在对应微信小程序内完成注册、授权或绑定手机号。
+<br/>
 
-<!-- WXAPP_TABLE_START -->
-| 铛铛一下签到+抽奖+提现 | 2026-06-05 | ✅ |
-| 嘉立创金豆商城签到 | 2026-06-05 | ✅ |
-| 倍轻松签到+发帖+评论+浏览商城 | 2026-06-05 | ✅ |
-| 七彩虹签到 | 2026-06-05 | ✅ |
-| 茶白道签到 | 2026-06-05 | ✅ |
-| 三福签到 | 2026-06-05 | ✅ |
-| DT生活签到 | 2026-06-05 | ✅ |
-| 优智云家签到 | 2026-06-05 | ✅ |
-| 奈雪点单签到 | 2026-06-05 | ✅ |
-| 飞蚂蚁旧衣回收签到+步数兑换 | 2026-06-05 | ✅ |
-| 君品荟签到+花园 | 2026-06-05 | ⚠️ |
-| 海天美味馆签到 | 2026-06-05 | ✅ |
-| 国乐酱酒签到 | 2026-06-05 | ✅ |
-| iQOO社区签到 | 2026-06-05 | ✅ |
-| 爱玛签到 | 2026-06-05 | ✅ |
-| 小紫有约签到 | 2026-06-05 | ✅ |
-| 泰康在线保险签到+答题+浏览 | 2026-06-05 | ✅ |
-<!-- WXAPP_TABLE_END -->
+<img src="https://media.tenor.com/kMfN3UGJZGkAAAAC/anime-mech.gif" width="280" />
 
-# 青龙面板拉库命令
+<br/>
+
+### ◈ 「 代码即武器，自动化即正义 」 ◈
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=4DC9FF&center=true&vCenter=true&width=435&lines=MECHA+CODER;WeChat+Automation+Specialist;Docker+%7C+Python+%7C+Scripting;SIGN+IN+%E2%80%A2+TASK+%E2%80%A2+LUCKY+DRAW)](https://git.io/typing-svg)
+
+<br/>
+
+---
+
+## ⚙️ SYSTEM STATUS
+
+<img src="https://raw.githubusercontent.com/plasticanne/plasticanne/master/assets/wave.gif" width="100%" />
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🛡️ ARMAMENT MODULES
+
+<br/>
 
 ```
-ql repo https://github.com/YR4399/wx-mini-scripts.git backup main
+┌─────────────────────────────┐
+│  ■ Python ............ ██████████  95%  │
+│  ■ Docker ............ ████████░░  80%  │
+│  ■ WeChat MiniProg ... ██████████  98%  │
+│  ■ Reverse Engineer .. ███████░░░  70%  │
+│  ■ Automation ........ █████████░  90%  │
+│  ■ Web Scraping ...... ████████░░  80%  │
+└─────────────────────────────┘
 ```
 
-## 免责声明
+</td>
+<td align="center" width="50%">
 
-这里的脚本只是自己学习 js 的一个实践 仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
+### 🎯 ACTIVE MISSIONS
 
-仓库内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。
+<br/>
 
-YR4399 对任何脚本问题概不负责，包括但不限于由任何脚本错误导致的任何损失或损害.
+```
+┌─────────────────────────────┐
+│  ▸ wx-mini-scripts   28 bots  │
+│  ▸ 呆呆面板自动化      ONLINE  │
+│  ▸ WCS 云服务         ACTIVE  │
+│  ▸ 签到矩阵           DAILY   │
+│  ▸ 任务引擎           RUNNING │
+└─────────────────────────────┘
+```
 
-间接使用脚本的任何用户，包括但不限于建立VPS或在某些行为违反国家/地区法律或相关法规的情况下进行传播, YR4399 对于由此引起的任何隐私泄漏或其他后果概不负责.
+</td>
+</tr>
+</table>
 
-如果任何单位或个人认为该项目的脚本可能涉嫌侵犯其权利，则应及时通知并提供身份证明，所有权证明，我们将在收到认证文件后删除相关脚本.
+<br/>
 
-任何以任何方式查看此项目的人或直接或间接使用该Script项目的任何脚本的使用者都应仔细阅读此声明。 YR4399 保留随时更改或补充此免责声明的权利。一旦使用并复制了任何相关脚本或Script项目的规则，则视为您已接受此免责声明.
+---
 
-您必须在下载后的24小时内从计算机或手机中完全删除以上内容.严禁产生利益链！
+## 🔥 TECH ARSENAL
 
-## Star History
+<div align="center">
 
-<a href="https://www.star-history.com/?repos=YR4399/wx-mini-scripts&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=YR4399/wx-mini-scripts&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=YR4399/wx-mini-scripts&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=YR4399/wx-mini-scripts&type=date&legend=top-left" />
- </picture>
-</a>
+<img src="https://skillicons.dev/icons?i=python,docker,git,github,bash,linux,regex,nginx&theme=dark&perline=4" />
+
+<br/>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-主力语言-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-容器化-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WeChat](https://img.shields.io/badge/WeChat-小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-运维-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+<br/>
+
+---
+
+## 📊 BATTLE STATISTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YR4399&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4dc9ff&icon_color=c44dff&text_color=a0a0a0" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YR4399&theme=tokyonight&hide_border=true&background=0d1117&stroke=4dc9ff&ring=c44dff&fire=ff6b9d&currStreakLabel=4dc9ff&sideLabels=a0a0a0" width="48%" />
+
+</div>
+
+<br/>
+
+---
+
+## 🏆 SIGN-IN STREAK
+
+<div align="center">
+
+```
+ ██████████████████████████████████████  38 天连续签到
+ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  
+ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
+ MON TUE WED THU FRI SAT SUN
+  ●   ●   ●   ●   ●   ●   ●   ← 每日自动签到
+```
+
+</div>
+
+<br/>
+
+---
+
+## 💀 CORE REACTOR
+
+<div align="center">
+
+```ascii
+                    ▄▄▄▄▄▄▄▄▄▄▄▄▄
+                 ▄▀▀▀░░░░░░░░░░░▀▀▀▄
+              ▄▀▀░░░░░░░░░░░░░░░░░░░▀▀▄
+           ▄▀▀░░░░░░░░░░░░░░░░░░░░░░░░░▀▀▄
+          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+           ▀▀▄░░░░░░░░░░░░░░░░░░░░░░░░░▄▀▀
+              ▀▀▄░░░░░░░░░░░░░░░░░░░▄▀▀
+                 ▀▀▄░░░░░░░░░░░░░▄▀▀
+                    ▀▀▀▀▀▀▀▀▀▀▀▀▀
+
+           「 SYSTEM ONLINE · ALL UNITS READY 」
+```
+
+</div>
+
+<br/>
+
+---
+
+## 🌌 RECENT ACTIVITY
+
+<div align="center">
+
+| TIME | EVENT | STATUS |
+|:----:|:------|:------:|
+| 🔥 Now | wx-mini-scripts · 28 bots deployed | `ACTIVE` |
+| 📅 Today | 安吉尔 sign fix + token retry logic | `DONE` |
+| 📅 Today | 袋鼠妈妈 2/3 accounts signed | `OK` |
+| 📅 Today | GitHub repo + 二次元风格 README | `DONE` |
+| 📅 Yesterday | 君品荟 AJ-Captcha 滑块破解 | `DONE` |
+| 📅 Yesterday | WCS 本地容器网络配置 | `DONE` |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ◈ 「 在代码的世界里，我是自己的英雄 」 ◈
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+
+</div>
