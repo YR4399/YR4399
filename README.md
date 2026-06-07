@@ -1,177 +1,86 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=YR4399&fontSize=80&fontColor=gradient&fontAlignY=35&desc=⚔%20CODE%20×%20MECHA%20⚔&descSize=18&descAlignY=55&descAlignX=50&animation=fadeIn" width="100%"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YR4399&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4dc9ff)](https://github.com/YR4399)
 
-<br/>
+[![](https://count.getloli.com/get/@YR4399)](https://count.getloli.com/get/@YR4399)
 
-<img src="https://media.tenor.com/kMfN3UGJZGkAAAAC/anime-mech.gif" width="280" />
-
-<br/>
-
-### ◈ 「 代码即武器，自动化即正义 」 ◈
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=4DC9FF&center=true&vCenter=true&width=435&lines=MECHA+CODER;WeChat+Automation+Specialist;Docker+%7C+Python+%7C+Scripting;SIGN+IN+%E2%80%A2+TASK+%E2%80%A2+LUCKY+DRAW)](https://git.io/typing-svg)
-
-<br/>
-
----
-
-## ⚙️ SYSTEM STATUS
-
-<img src="https://raw.githubusercontent.com/plasticanne/plasticanne/master/assets/wave.gif" width="100%" />
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🛡️ ARMAMENT MODULES
-
-<br/>
-
-```
-┌─────────────────────────────┐
-│  ■ Python ............ ██████████  95%  │
-│  ■ Docker ............ ████████░░  80%  │
-│  ■ WeChat MiniProg ... ██████████  98%  │
-│  ■ Reverse Engineer .. ███████░░░  70%  │
-│  ■ Automation ........ █████████░  90%  │
-│  ■ Web Scraping ...... ████████░░  80%  │
-└─────────────────────────────┘
-```
-
-</td>
-<td align="center" width="50%">
-
-### 🎯 ACTIVE MISSIONS
-
-<br/>
-
-```
-┌─────────────────────────────┐
-│  ▸ wx-mini-scripts   28 bots  │
-│  ▸ 呆呆面板自动化      ONLINE  │
-│  ▸ WCS 云服务         ACTIVE  │
-│  ▸ 签到矩阵           DAILY   │
-│  ▸ 任务引擎           RUNNING │
-└─────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## 🔥 TECH ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,docker,git,github,bash,linux,regex,nginx&theme=dark&perline=4" />
-
-<br/>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-主力语言-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-容器化-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![WeChat](https://img.shields.io/badge/WeChat-小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-运维-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![](https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg)](https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<br/>
-
 ---
 
-## 📊 BATTLE STATISTICS
+### 💪 正在学习
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YR4399&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4dc9ff&icon_color=c44dff&text_color=a0a0a0" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YR4399&theme=tokyonight&hide_border=true&background=0d1117&stroke=4dc9ff&ring=c44dff&fire=ff6b9d&currStreakLabel=4dc9ff&sideLabels=a0a0a0" width="48%" />
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
 
 </div>
 
-<br/>
-
 ---
 
-## 🏆 SIGN-IN STREAK
+### 🧠 计划学习
 
 <div align="center">
 
-```
- ██████████████████████████████████████  38 天连续签到
- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  
- MON TUE WED THU FRI SAT SUN
-  ●   ●   ●   ●   ●   ●   ●   ← 每日自动签到
-```
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=fff&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff&style=flat)
 
 </div>
 
-<br/>
-
 ---
 
-## 💀 CORE REACTOR
+### 🧰 常用的工具
 
 <div align="center">
 
-```ascii
-                    ▄▄▄▄▄▄▄▄▄▄▄▄▄
-                 ▄▀▀▀░░░░░░░░░░░▀▀▀▄
-              ▄▀▀░░░░░░░░░░░░░░░░░░░▀▀▄
-           ▄▀▀░░░░░░░░░░░░░░░░░░░░░░░░░▀▀▄
-          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-           ▀▀▄░░░░░░░░░░░░░░░░░░░░░░░░░▄▀▀
-              ▀▀▄░░░░░░░░░░░░░░░░░░░▄▀▀
-                 ▀▀▄░░░░░░░░░░░░░▄▀▀
-                    ▀▀▀▀▀▀▀▀▀▀▀▀▀
-
-           「 SYSTEM ONLINE · ALL UNITS READY 」
-```
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Docker Desktop](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff&style=flat)
+![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=fff&style=flat)
+![Xiaomi](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 
 </div>
 
-<br/>
-
 ---
-
-## 🌌 RECENT ACTIVITY
 
 <div align="center">
 
-| TIME | EVENT | STATUS |
-|:----:|:------|:------:|
-| 🔥 Now | wx-mini-scripts · 28 bots deployed | `ACTIVE` |
-| 📅 Today | 安吉尔 sign fix + token retry logic | `DONE` |
-| 📅 Today | 袋鼠妈妈 2/3 accounts signed | `OK` |
-| 📅 Today | GitHub repo + 二次元风格 README | `DONE` |
-| 📅 Yesterday | 君品荟 AJ-Captcha 滑块破解 | `DONE` |
-| 📅 Yesterday | WCS 本地容器网络配置 | `DONE` |
+[![](https://skillicons.dev/icons?i=python,js,nodejs,docker,git,github,bash,linux,nginx,sqlite&theme=dark)](https://skillicons.dev)
+
+<br/>
+
+[![Python](https://techstack-generator.vercel.app/python-icon.svg)](https://techstack-generator.vercel.app/)
+[![Docker](https://techstack-generator.vercel.app/docker-icon.svg)](https://techstack-generator.vercel.app/)
+[![Nginx](https://techstack-generator.vercel.app/nginx-icon.svg)](https://techstack-generator.vercel.app/)
+[![MySQL](https://techstack-generator.vercel.app/mysql-icon.svg)](https://techstack-generator.vercel.app/)
+[![GitHub](https://techstack-generator.vercel.app/github-icon.svg)](https://techstack-generator.vercel.app/)
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
-### ◈ 「 在代码的世界里，我是自己的英雄 」 ◈
+[![](https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png)](https://github.com/YR4399)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+[![](https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif)](https://github.com/YR4399)
 
 </div>
