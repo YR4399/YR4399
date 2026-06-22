@@ -65,13 +65,6 @@
 
 [![](https://skillicons.dev/icons?i=python,js,nodejs,docker,git,github,bash,linux,nginx,sqlite&theme=dark)](https://skillicons.dev)
 
-<br/>
-
-[![Python](https://techstack-generator.vercel.app/python-icon.svg)](https://techstack-generator.vercel.app/)
-[![Docker](https://techstack-generator.vercel.app/docker-icon.svg)](https://techstack-generator.vercel.app/)
-[![Nginx](https://techstack-generator.vercel.app/nginx-icon.svg)](https://techstack-generator.vercel.app/)
-[![MySQL](https://techstack-generator.vercel.app/mysql-icon.svg)](https://techstack-generator.vercel.app/)
-[![GitHub](https://techstack-generator.vercel.app/github-icon.svg)](https://techstack-generator.vercel.app/)
 
 </div>
 
